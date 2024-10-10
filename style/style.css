@@ -25,3 +25,13 @@ table, tr, th, td, caption {
     border-collapse: collapse;
     padding: 0.5rem;
 }
+
+.container {
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+}
+
+.normal {
+    margin-right: 50px;
+}
